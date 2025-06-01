@@ -1,0 +1,422 @@
+[
+    {
+        "id": "1",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/part2_001953_helmet_0.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 1}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/part2_001953_helmet_1.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 1}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/part2_001417_head_2.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 0}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/part2_001417_helmet_3.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 1}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/001089_head_3.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 0}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/part2_001952_helmet_0.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 1}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/001367_helmet_0.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 1}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/001367_head_2.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 0}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/part2_001667_helmet_0.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 1}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/part2_000181_head_0.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 0}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/part2_000181_helmet_1.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 1}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "12",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/part2_000541_head_0.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 0}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/part2_000541_helmet_1.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 1}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "14",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/part2_000439_head_0.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 0}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "15",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/part2_000439_helmet_1.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 1}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "16",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/001385_head_0.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 0}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "17",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/001351_helmet_0.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 1}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "18",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/001142_helmet_0.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 1}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "19",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/part2_001654_head_1.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 0}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "20",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/part2_001654_helmet_2.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 1}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "21",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/part2_001657_head_0.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 0}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "22",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/part2_001657_helmet_2.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 1}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "23",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/part2_000165_helmet_0.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 1}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "24",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/001523_helmet_0.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 1}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "25",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/part2_000116_helmet_0.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 1}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "26",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/001091_head_0.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 0}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "27",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/001091_helmet_1.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 1}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "28",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/part2_000117_head_1.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 0}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "29",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/part2_000117_helmet_2.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 1}",
+                "role": "assistant"
+            }
+        ]
+    },
+    {
+        "id": "30",
+        "image": "/Users/ruanxiaoyang/Desktop/repo/finetune-minicpm/dataset/helmet_sample_output_crops/head_helmet_crops/000992_helmet_0.jpg",
+        "conversations": [
+            {
+                "content": "<image>判断图片中的人是否佩戴安全帽。只返回符合以下格式的 JSON：{\"helmet\": <是否佩戴安全帽，1表示佩戴，0表示未佩戴>}",
+                "role": "user"
+            },
+            {
+                "content": "{\"helmet\": 1}",
+                "role": "assistant"
+            }
+        ]
+    }
+]

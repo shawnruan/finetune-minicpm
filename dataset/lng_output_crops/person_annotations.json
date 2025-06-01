@@ -1,0 +1,1892 @@
+[
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_2492_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            548,
+            538,
+            680,
+            895
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_2492_person_1.jpg",
+        "class": 0,
+        "bbox": [
+            817,
+            569,
+            982,
+            937
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_2492_person_2.jpg",
+        "class": 1,
+        "bbox": [
+            447,
+            610,
+            582,
+            983
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_2492_person_3.jpg",
+        "class": 0,
+        "bbox": [
+            703,
+            538,
+            815,
+            848
+        ]
+    },
+    {
+        "filename": "2_2#20250108_720_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            600,
+            58,
+            630,
+            97
+        ]
+    },
+    {
+        "filename": "55859_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            141,
+            67,
+            281,
+            402
+        ]
+    },
+    {
+        "filename": "49914_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            170,
+            279,
+            221,
+            513
+        ]
+    },
+    {
+        "filename": "49914_person_1.jpg",
+        "class": 0,
+        "bbox": [
+            68,
+            283,
+            109,
+            514
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_1778_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            427,
+            542,
+            561,
+            898
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_1778_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            834,
+            536,
+            973,
+            893
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_1778_person_2.jpg",
+        "class": 0,
+        "bbox": [
+            694,
+            538,
+            802,
+            859
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_1778_person_3.jpg",
+        "class": 1,
+        "bbox": [
+            593,
+            581,
+            709,
+            944
+        ]
+    },
+    {
+        "filename": "49915_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            160,
+            337,
+            256,
+            576
+        ]
+    },
+    {
+        "filename": "49915_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            0,
+            336,
+            117,
+            574
+        ]
+    },
+    {
+        "filename": "49915_person_2.jpg",
+        "class": 0,
+        "bbox": [
+            0,
+            2,
+            83,
+            208
+        ]
+    },
+    {
+        "filename": "55858_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            529,
+            503,
+            610,
+            848
+        ]
+    },
+    {
+        "filename": "55858_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            715,
+            521,
+            835,
+            825
+        ]
+    },
+    {
+        "filename": "55858_person_2.jpg",
+        "class": 1,
+        "bbox": [
+            462,
+            588,
+            598,
+            983
+        ]
+    },
+    {
+        "filename": "55858_person_3.jpg",
+        "class": 0,
+        "bbox": [
+            804,
+            542,
+            951,
+            902
+        ]
+    },
+    {
+        "filename": "55848_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            643,
+            605,
+            801,
+            1009
+        ]
+    },
+    {
+        "filename": "55848_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            788,
+            616,
+            958,
+            1012
+        ]
+    },
+    {
+        "filename": "55860_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            782,
+            477,
+            894,
+            753
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_270_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            492,
+            242,
+            528,
+            329
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_270_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            533,
+            247,
+            559,
+            296
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_270_person_2.jpg",
+        "class": 1,
+        "bbox": [
+            464,
+            256,
+            491,
+            347
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_270_person_3.jpg",
+        "class": 1,
+        "bbox": [
+            438,
+            237,
+            464,
+            301
+        ]
+    },
+    {
+        "filename": "1_2#20250108_468_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            583,
+            430,
+            610,
+            471
+        ]
+    },
+    {
+        "filename": "55861_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            15,
+            504,
+            179,
+            848
+        ]
+    },
+    {
+        "filename": "55861_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            467,
+            477,
+            599,
+            824
+        ]
+    },
+    {
+        "filename": "55861_person_2.jpg",
+        "class": 0,
+        "bbox": [
+            620,
+            474,
+            706,
+            803
+        ]
+    },
+    {
+        "filename": "1_2#20250108_252_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            478,
+            357,
+            519,
+            460
+        ]
+    },
+    {
+        "filename": "55863_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            600,
+            615,
+            852,
+            1071
+        ]
+    },
+    {
+        "filename": "55863_person_1.jpg",
+        "class": 0,
+        "bbox": [
+            1366,
+            886,
+            1508,
+            1077
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_0_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            483,
+            494,
+            550,
+            803
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_0_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            528,
+            529,
+            635,
+            888
+        ]
+    },
+    {
+        "filename": "49907_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            321,
+            229,
+            375,
+            327
+        ]
+    },
+    {
+        "filename": "49907_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            379,
+            160,
+            420,
+            246
+        ]
+    },
+    {
+        "filename": "49907_person_2.jpg",
+        "class": 1,
+        "bbox": [
+            387,
+            240,
+            425,
+            546
+        ]
+    },
+    {
+        "filename": "49907_person_3.jpg",
+        "class": 1,
+        "bbox": [
+            361,
+            192,
+            400,
+            265
+        ]
+    },
+    {
+        "filename": "49907_person_4.jpg",
+        "class": 1,
+        "bbox": [
+            330,
+            275,
+            389,
+            557
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_4096_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            520,
+            574,
+            628,
+            940
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_4096_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            456,
+            512,
+            554,
+            854
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_4096_person_2.jpg",
+        "class": 0,
+        "bbox": [
+            584,
+            545,
+            690,
+            876
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_762_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            636,
+            487,
+            726,
+            764
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_762_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            706,
+            474,
+            812,
+            818
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_762_person_2.jpg",
+        "class": 1,
+        "bbox": [
+            594,
+            562,
+            696,
+            904
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_762_person_3.jpg",
+        "class": 1,
+        "bbox": [
+            542,
+            505,
+            624,
+            817
+        ]
+    },
+    {
+        "filename": "55862_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            0,
+            572,
+            160,
+            1012
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_1651_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            520,
+            501,
+            679,
+            906
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_1651_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            582,
+            566,
+            677,
+            909
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_1651_person_2.jpg",
+        "class": 0,
+        "bbox": [
+            764,
+            511,
+            874,
+            868
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_1651_person_3.jpg",
+        "class": 0,
+        "bbox": [
+            624,
+            492,
+            756,
+            790
+        ]
+    },
+    {
+        "filename": "55795_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            376,
+            378,
+            397,
+            461
+        ]
+    },
+    {
+        "filename": "55795_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            325,
+            333,
+            346,
+            425
+        ]
+    },
+    {
+        "filename": "55795_person_2.jpg",
+        "class": 1,
+        "bbox": [
+            384,
+            415,
+            409,
+            504
+        ]
+    },
+    {
+        "filename": "55795_person_3.jpg",
+        "class": 1,
+        "bbox": [
+            396,
+            376,
+            421,
+            460
+        ]
+    },
+    {
+        "filename": "3_2#20250108_638_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            370,
+            214,
+            470,
+            379
+        ]
+    },
+    {
+        "filename": "2_2#20250108_384_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            513,
+            157,
+            541,
+            209
+        ]
+    },
+    {
+        "filename": "1_2#20250108_792_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            512,
+            519,
+            557,
+            593
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_216_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            783,
+            253,
+            811,
+            298
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_216_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            589,
+            253,
+            612,
+            280
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_216_person_2.jpg",
+        "class": 1,
+        "bbox": [
+            504,
+            257,
+            539,
+            327
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_216_person_3.jpg",
+        "class": 0,
+        "bbox": [
+            432,
+            232,
+            455,
+            296
+        ]
+    },
+    {
+        "filename": "2_2#20250108_64_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            476,
+            78,
+            516,
+            168
+        ]
+    },
+    {
+        "filename": "55796_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            296,
+            272,
+            308,
+            333
+        ]
+    },
+    {
+        "filename": "55796_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            291,
+            249,
+            307,
+            282
+        ]
+    },
+    {
+        "filename": "55796_person_2.jpg",
+        "class": 1,
+        "bbox": [
+            331,
+            291,
+            345,
+            347
+        ]
+    },
+    {
+        "filename": "55796_person_3.jpg",
+        "class": 1,
+        "bbox": [
+            290,
+            277,
+            308,
+            335
+        ]
+    },
+    {
+        "filename": "1_2#20250108_1332_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            434,
+            303,
+            459,
+            376
+        ]
+    },
+    {
+        "filename": "2_2#20250108_432_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            546,
+            152,
+            591,
+            237
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_5504_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            656,
+            501,
+            735,
+            790
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_5504_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            476,
+            489,
+            584,
+            825
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_5504_person_2.jpg",
+        "class": 1,
+        "bbox": [
+            583,
+            513,
+            685,
+            835
+        ]
+    },
+    {
+        "filename": "2_2#20250108_208_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            844,
+            309,
+            902,
+            404
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_1905_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            816,
+            658,
+            991,
+            1076
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_1905_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            418,
+            834,
+            618,
+            1075
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_1905_person_2.jpg",
+        "class": 1,
+        "bbox": [
+            549,
+            688,
+            701,
+            1075
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_1905_person_3.jpg",
+        "class": 0,
+        "bbox": [
+            1038,
+            798,
+            1229,
+            1075
+        ]
+    },
+    {
+        "filename": "4_2#20250108_680_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            657,
+            264,
+            686,
+            316
+        ]
+    },
+    {
+        "filename": "4_2#20250108_119_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            381,
+            281,
+            422,
+            379
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_1134_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            549,
+            262,
+            581,
+            346
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_1134_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            593,
+            255,
+            618,
+            280
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_1134_person_2.jpg",
+        "class": 1,
+        "bbox": [
+            487,
+            239,
+            526,
+            336
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_2581_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            990,
+            748,
+            1182,
+            1074
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_2581_person_1.jpg",
+        "class": 0,
+        "bbox": [
+            797,
+            734,
+            957,
+            1075
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_2581_person_2.jpg",
+        "class": 1,
+        "bbox": [
+            526,
+            670,
+            714,
+            1075
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_2581_person_3.jpg",
+        "class": 1,
+        "bbox": [
+            322,
+            699,
+            486,
+            1072
+        ]
+    },
+    {
+        "filename": "2_2#20250108_544_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            451,
+            102,
+            484,
+            187
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_5248_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            477,
+            496,
+            588,
+            829
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_5248_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            570,
+            500,
+            665,
+            836
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_5248_person_2.jpg",
+        "class": 0,
+        "bbox": [
+            530,
+            495,
+            597,
+            765
+        ]
+    },
+    {
+        "filename": "1_2#20250108_540_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            203,
+            382,
+            257,
+            474
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_445_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            677,
+            504,
+            753,
+            805
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_445_person_1.jpg",
+        "class": 0,
+        "bbox": [
+            468,
+            501,
+            593,
+            824
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_445_person_2.jpg",
+        "class": 1,
+        "bbox": [
+            500,
+            563,
+            606,
+            917
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_445_person_3.jpg",
+        "class": 0,
+        "bbox": [
+            598,
+            508,
+            697,
+            860
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_432_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            436,
+            240,
+            464,
+            311
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_432_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            503,
+            248,
+            540,
+            332
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_432_person_2.jpg",
+        "class": 1,
+        "bbox": [
+            475,
+            240,
+            508,
+            338
+        ]
+    },
+    {
+        "filename": "1_2#20250108_36_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            494,
+            261,
+            525,
+            306
+        ]
+    },
+    {
+        "filename": "20250113142128_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            642,
+            512,
+            789,
+            931
+        ]
+    },
+    {
+        "filename": "20250113142128_person_1.jpg",
+        "class": 0,
+        "bbox": [
+            799,
+            884,
+            973,
+            1001
+        ]
+    },
+    {
+        "filename": "20250113142128_person_2.jpg",
+        "class": 1,
+        "bbox": [
+            448,
+            476,
+            563,
+            808
+        ]
+    },
+    {
+        "filename": "49837_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            14,
+            469,
+            49,
+            575
+        ]
+    },
+    {
+        "filename": "49837_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            169,
+            368,
+            193,
+            443
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_756_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            100,
+            302,
+            149,
+            448
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_756_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            454,
+            256,
+            498,
+            314
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_756_person_2.jpg",
+        "class": 1,
+        "bbox": [
+            472,
+            267,
+            516,
+            331
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_756_person_3.jpg",
+        "class": 1,
+        "bbox": [
+            417,
+            271,
+            452,
+            306
+        ]
+    },
+    {
+        "filename": "1_2#20250108_576_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            215,
+            470,
+            267,
+            570
+        ]
+    },
+    {
+        "filename": "2_2#20250108_160_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            462,
+            268,
+            502,
+            351
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_3584_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            466,
+            478,
+            573,
+            839
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_3584_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            537,
+            540,
+            662,
+            904
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_3584_person_2.jpg",
+        "class": 0,
+        "bbox": [
+            599,
+            507,
+            667,
+            819
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_1152_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            463,
+            487,
+            587,
+            839
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_1152_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            818,
+            367,
+            871,
+            522
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_2403_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            491,
+            488,
+            598,
+            681
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_2403_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            484,
+            578,
+            607,
+            954
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_2403_person_2.jpg",
+        "class": 0,
+        "bbox": [
+            714,
+            523,
+            840,
+            882
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_2403_person_3.jpg",
+        "class": 1,
+        "bbox": [
+            713,
+            489,
+            802,
+            802
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_486_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            336,
+            266,
+            355,
+            300
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_486_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            395,
+            264,
+            417,
+            297
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_486_person_2.jpg",
+        "class": 1,
+        "bbox": [
+            476,
+            236,
+            509,
+            335
+        ]
+    },
+    {
+        "filename": "55853_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            756,
+            486,
+            873,
+            771
+        ]
+    },
+    {
+        "filename": "2_2#20250108_112_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            308,
+            166,
+            358,
+            292
+        ]
+    },
+    {
+        "filename": "2_2#20250108_304_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            389,
+            266,
+            444,
+            381
+        ]
+    },
+    {
+        "filename": "49895_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            316,
+            80,
+            358,
+            175
+        ]
+    },
+    {
+        "filename": "49895_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            585,
+            262,
+            631,
+            398
+        ]
+    },
+    {
+        "filename": "49895_person_2.jpg",
+        "class": 0,
+        "bbox": [
+            316,
+            158,
+            413,
+            308
+        ]
+    },
+    {
+        "filename": "49895_person_3.jpg",
+        "class": 1,
+        "bbox": [
+            91,
+            438,
+            159,
+            576
+        ]
+    },
+    {
+        "filename": "49895_person_4.jpg",
+        "class": 0,
+        "bbox": [
+            552,
+            322,
+            614,
+            423
+        ]
+    },
+    {
+        "filename": "49895_person_5.jpg",
+        "class": 1,
+        "bbox": [
+            480,
+            350,
+            548,
+            572
+        ]
+    },
+    {
+        "filename": "49895_person_6.jpg",
+        "class": 1,
+        "bbox": [
+            516,
+            425,
+            609,
+            575
+        ]
+    },
+    {
+        "filename": "49895_person_7.jpg",
+        "class": 0,
+        "bbox": [
+            316,
+            142,
+            386,
+            403
+        ]
+    },
+    {
+        "filename": "49895_person_8.jpg",
+        "class": 1,
+        "bbox": [
+            363,
+            256,
+            428,
+            479
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_381_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            622,
+            480,
+            686,
+            582
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_381_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            539,
+            503,
+            624,
+            817
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_381_person_2.jpg",
+        "class": 1,
+        "bbox": [
+            607,
+            469,
+            733,
+            870
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_381_person_3.jpg",
+        "class": 1,
+        "bbox": [
+            592,
+            562,
+            701,
+            905
+        ]
+    },
+    {
+        "filename": "3_2#20250108_1012_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            340,
+            67,
+            392,
+            218
+        ]
+    },
+    {
+        "filename": "49894_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            271,
+            197,
+            294,
+            270
+        ]
+    },
+    {
+        "filename": "49894_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            368,
+            136,
+            377,
+            177
+        ]
+    },
+    {
+        "filename": "49894_person_2.jpg",
+        "class": 1,
+        "bbox": [
+            507,
+            110,
+            535,
+            202
+        ]
+    },
+    {
+        "filename": "49894_person_3.jpg",
+        "class": 0,
+        "bbox": [
+            372,
+            228,
+            385,
+            276
+        ]
+    },
+    {
+        "filename": "49894_person_4.jpg",
+        "class": 1,
+        "bbox": [
+            248,
+            270,
+            269,
+            340
+        ]
+    },
+    {
+        "filename": "49894_person_5.jpg",
+        "class": 1,
+        "bbox": [
+            212,
+            214,
+            222,
+            238
+        ]
+    },
+    {
+        "filename": "49894_person_6.jpg",
+        "class": 1,
+        "bbox": [
+            201,
+            222,
+            214,
+            259
+        ]
+    },
+    {
+        "filename": "49894_person_7.jpg",
+        "class": 0,
+        "bbox": [
+            210,
+            238,
+            226,
+            278
+        ]
+    },
+    {
+        "filename": "49894_person_8.jpg",
+        "class": 1,
+        "bbox": [
+            213,
+            274,
+            234,
+            351
+        ]
+    },
+    {
+        "filename": "49894_person_9.jpg",
+        "class": 1,
+        "bbox": [
+            218,
+            358,
+            240,
+            424
+        ]
+    },
+    {
+        "filename": "20250113142149_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            868,
+            144,
+            896,
+            228
+        ]
+    },
+    {
+        "filename": "20250113142149_person_1.jpg",
+        "class": 0,
+        "bbox": [
+            534,
+            421,
+            699,
+            820
+        ]
+    },
+    {
+        "filename": "20250113142149_person_2.jpg",
+        "class": 1,
+        "bbox": [
+            680,
+            424,
+            853,
+            822
+        ]
+    },
+    {
+        "filename": "55852_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            846,
+            921,
+            1066,
+            1077
+        ]
+    },
+    {
+        "filename": "55852_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            510,
+            514,
+            627,
+            849
+        ]
+    },
+    {
+        "filename": "55852_person_2.jpg",
+        "class": 1,
+        "bbox": [
+            705,
+            553,
+            852,
+            972
+        ]
+    },
+    {
+        "filename": "55846_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            640,
+            632,
+            742,
+            887
+        ]
+    },
+    {
+        "filename": "2_2#20250108_688_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            478,
+            84,
+            514,
+            167
+        ]
+    },
+    {
+        "filename": "55850_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            39,
+            667,
+            123,
+            920
+        ]
+    },
+    {
+        "filename": "55850_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            212,
+            643,
+            300,
+            873
+        ]
+    },
+    {
+        "filename": "55850_person_2.jpg",
+        "class": 1,
+        "bbox": [
+            127,
+            616,
+            213,
+            864
+        ]
+    },
+    {
+        "filename": "49896_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            22,
+            335,
+            96,
+            572
+        ]
+    },
+    {
+        "filename": "49896_person_1.jpg",
+        "class": 0,
+        "bbox": [
+            313,
+            218,
+            369,
+            409
+        ]
+    },
+    {
+        "filename": "55845_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            650,
+            405,
+            766,
+            728
+        ]
+    },
+    {
+        "filename": "55845_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            646,
+            205,
+            765,
+            445
+        ]
+    },
+    {
+        "filename": "55851_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            88,
+            458,
+            166,
+            687
+        ]
+    },
+    {
+        "filename": "55851_person_1.jpg",
+        "class": 0,
+        "bbox": [
+            248,
+            427,
+            305,
+            615
+        ]
+    },
+    {
+        "filename": "55855_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            536,
+            547,
+            658,
+            904
+        ]
+    },
+    {
+        "filename": "55855_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            480,
+            494,
+            585,
+            848
+        ]
+    },
+    {
+        "filename": "55855_person_2.jpg",
+        "class": 0,
+        "bbox": [
+            627,
+            531,
+            702,
+            849
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_178_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            532,
+            498,
+            602,
+            824
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_178_person_1.jpg",
+        "class": 0,
+        "bbox": [
+            585,
+            504,
+            691,
+            866
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_178_person_2.jpg",
+        "class": 1,
+        "bbox": [
+            463,
+            529,
+            574,
+            882
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_178_person_3.jpg",
+        "class": 1,
+        "bbox": [
+            693,
+            495,
+            766,
+            816
+        ]
+    },
+    {
+        "filename": "4_2#20250108_748_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            568,
+            232,
+            583,
+            266
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_384_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            495,
+            493,
+            601,
+            841
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_384_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            571,
+            540,
+            731,
+            892
+        ]
+    },
+    {
+        "filename": "49918_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            219,
+            49,
+            255,
+            188
+        ]
+    },
+    {
+        "filename": "49918_person_1.jpg",
+        "class": 1,
+        "bbox": [
+            195,
+            54,
+            218,
+            188
+        ]
+    },
+    {
+        "filename": "3_2#20250108_682_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            687,
+            216,
+            767,
+            282
+        ]
+    },
+    {
+        "filename": "4_2#20250108_629_person_0.jpg",
+        "class": 0,
+        "bbox": [
+            384,
+            287,
+            417,
+            378
+        ]
+    },
+    {
+        "filename": "55854_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            534,
+            531,
+            671,
+            895
+        ]
+    },
+    {
+        "filename": "55854_person_1.jpg",
+        "class": 0,
+        "bbox": [
+            610,
+            514,
+            697,
+            791
+        ]
+    },
+    {
+        "filename": "55854_person_2.jpg",
+        "class": 0,
+        "bbox": [
+            493,
+            490,
+            592,
+            831
+        ]
+    },
+    {
+        "filename": "55856_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            378,
+            592,
+            526,
+            987
+        ]
+    },
+    {
+        "filename": "55856_person_1.jpg",
+        "class": 0,
+        "bbox": [
+            711,
+            596,
+            831,
+            950
+        ]
+    },
+    {
+        "filename": "55856_person_2.jpg",
+        "class": 1,
+        "bbox": [
+            568,
+            596,
+            715,
+            950
+        ]
+    },
+    {
+        "filename": "55856_person_3.jpg",
+        "class": 1,
+        "bbox": [
+            832,
+            555,
+            976,
+            928
+        ]
+    },
+    {
+        "filename": "55857_person_0.jpg",
+        "class": 1,
+        "bbox": [
+            233,
+            603,
+            441,
+            1029
+        ]
+    }
+]

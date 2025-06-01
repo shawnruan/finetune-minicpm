@@ -1,0 +1,1862 @@
+[
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_2492_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            875,
+            574,
+            933,
+            641
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_2492_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            734,
+            537,
+            782,
+            601
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_2492_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            608,
+            538,
+            659,
+            612
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_2492_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            476,
+            611,
+            546,
+            691
+        ]
+    },
+    {
+        "filename": "2_2#20250108_720_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            604,
+            58,
+            617,
+            75
+        ]
+    },
+    {
+        "filename": "55859_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            146,
+            69,
+            203,
+            135
+        ]
+    },
+    {
+        "filename": "49914_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            186,
+            279,
+            212,
+            318
+        ]
+    },
+    {
+        "filename": "49914_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            66,
+            281,
+            84,
+            320
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_1778_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            735,
+            543,
+            775,
+            598
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_1778_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            897,
+            537,
+            949,
+            607
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_1778_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            627,
+            586,
+            696,
+            654
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_1778_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            459,
+            545,
+            518,
+            614
+        ]
+    },
+    {
+        "filename": "49915_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            39,
+            338,
+            76,
+            406
+        ]
+    },
+    {
+        "filename": "49915_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            188,
+            339,
+            224,
+            397
+        ]
+    },
+    {
+        "filename": "55858_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            488,
+            588,
+            556,
+            665
+        ]
+    },
+    {
+        "filename": "55858_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            555,
+            507,
+            604,
+            573
+        ]
+    },
+    {
+        "filename": "55858_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            779,
+            524,
+            824,
+            582
+        ]
+    },
+    {
+        "filename": "55858_head_3.jpg",
+        "class": 0,
+        "bbox": [
+            850,
+            541,
+            897,
+            609
+        ]
+    },
+    {
+        "filename": "55848_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            853,
+            619,
+            912,
+            698
+        ]
+    },
+    {
+        "filename": "55848_head_1.jpg",
+        "class": 0,
+        "bbox": [
+            679,
+            610,
+            731,
+            679
+        ]
+    },
+    {
+        "filename": "55860_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            833,
+            480,
+            875,
+            527
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_270_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            445,
+            238,
+            463,
+            257
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_270_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            470,
+            257,
+            486,
+            276
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_270_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            501,
+            243,
+            517,
+            262
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_270_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            538,
+            248,
+            553,
+            267
+        ]
+    },
+    {
+        "filename": "1_2#20250108_468_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            591,
+            430,
+            610,
+            455
+        ]
+    },
+    {
+        "filename": "55861_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            640,
+            475,
+            685,
+            526
+        ]
+    },
+    {
+        "filename": "55861_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            527,
+            479,
+            581,
+            543
+        ]
+    },
+    {
+        "filename": "1_2#20250108_252_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            499,
+            358,
+            518,
+            384
+        ]
+    },
+    {
+        "filename": "55863_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            1390,
+            885,
+            1503,
+            1010
+        ]
+    },
+    {
+        "filename": "55863_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            702,
+            619,
+            790,
+            717
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_0_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            541,
+            530,
+            587,
+            595
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_0_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            490,
+            492,
+            537,
+            556
+        ]
+    },
+    {
+        "filename": "49907_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            361,
+            193,
+            393,
+            237
+        ]
+    },
+    {
+        "filename": "49907_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            366,
+            252,
+            393,
+            287
+        ]
+    },
+    {
+        "filename": "49907_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            390,
+            240,
+            417,
+            287
+        ]
+    },
+    {
+        "filename": "49907_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            353,
+            277,
+            386,
+            320
+        ]
+    },
+    {
+        "filename": "49907_helmet_4.jpg",
+        "class": 1,
+        "bbox": [
+            346,
+            229,
+            374,
+            269
+        ]
+    },
+    {
+        "filename": "49907_helmet_5.jpg",
+        "class": 1,
+        "bbox": [
+            379,
+            160,
+            408,
+            207
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_4096_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            608,
+            547,
+            649,
+            607
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_4096_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            529,
+            574,
+            585,
+            644
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_4096_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            461,
+            512,
+            520,
+            569
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_762_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            675,
+            487,
+            708,
+            533
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_762_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            737,
+            477,
+            788,
+            543
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_762_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            625,
+            563,
+            683,
+            628
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_762_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            559,
+            506,
+            616,
+            561
+        ]
+    },
+    {
+        "filename": "55862_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            16,
+            574,
+            71,
+            658
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_1651_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            593,
+            496,
+            637,
+            557
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_1651_head_1.jpg",
+        "class": 0,
+        "bbox": [
+            666,
+            492,
+            705,
+            541
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_1651_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            797,
+            510,
+            860,
+            584
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_1651_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            599,
+            569,
+            660,
+            635
+        ]
+    },
+    {
+        "filename": "55795_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            328,
+            335,
+            338,
+            348
+        ]
+    },
+    {
+        "filename": "55795_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            400,
+            377,
+            411,
+            393
+        ]
+    },
+    {
+        "filename": "55795_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            381,
+            378,
+            391,
+            395
+        ]
+    },
+    {
+        "filename": "55795_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            391,
+            417,
+            403,
+            433
+        ]
+    },
+    {
+        "filename": "3_2#20250108_638_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            394,
+            214,
+            419,
+            250
+        ]
+    },
+    {
+        "filename": "2_2#20250108_384_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            518,
+            157,
+            538,
+            181
+        ]
+    },
+    {
+        "filename": "1_2#20250108_792_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            516,
+            518,
+            551,
+            554
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_216_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            436,
+            231,
+            452,
+            250
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_216_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            515,
+            257,
+            530,
+            276
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_216_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            591,
+            253,
+            607,
+            272
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_216_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            787,
+            253,
+            803,
+            273
+        ]
+    },
+    {
+        "filename": "2_2#20250108_64_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            490,
+            80,
+            508,
+            98
+        ]
+    },
+    {
+        "filename": "55796_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            333,
+            292,
+            340,
+            302
+        ]
+    },
+    {
+        "filename": "55796_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            295,
+            278,
+            301,
+            285
+        ]
+    },
+    {
+        "filename": "55796_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            296,
+            273,
+            304,
+            281
+        ]
+    },
+    {
+        "filename": "55796_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            295,
+            250,
+            302,
+            258
+        ]
+    },
+    {
+        "filename": "1_2#20250108_1332_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            443,
+            302,
+            459,
+            320
+        ]
+    },
+    {
+        "filename": "2_2#20250108_432_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            560,
+            153,
+            585,
+            179
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_5504_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            486,
+            495,
+            541,
+            563
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_5504_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            609,
+            513,
+            656,
+            570
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_5504_head_2.jpg",
+        "class": 0,
+        "bbox": [
+            681,
+            502,
+            720,
+            548
+        ]
+    },
+    {
+        "filename": "2_2#20250108_208_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            862,
+            311,
+            895,
+            346
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_1905_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            898,
+            657,
+            972,
+            755
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_1905_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            583,
+            688,
+            655,
+            791
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_1905_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            466,
+            841,
+            578,
+            967
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_1905_head_3.jpg",
+        "class": 0,
+        "bbox": [
+            1156,
+            799,
+            1225,
+            882
+        ]
+    },
+    {
+        "filename": "4_2#20250108_680_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            668,
+            264,
+            679,
+            276
+        ]
+    },
+    {
+        "filename": "4_2#20250108_119_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            393,
+            282,
+            408,
+            299
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_1134_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            508,
+            244,
+            524,
+            266
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_1134_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            562,
+            262,
+            580,
+            279
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_1134_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            601,
+            255,
+            616,
+            275
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_1134_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            674,
+            262,
+            688,
+            278
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_1134_helmet_4.jpg",
+        "class": 1,
+        "bbox": [
+            559,
+            250,
+            578,
+            267
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_2581_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            587,
+            672,
+            658,
+            770
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_2581_head_1.jpg",
+        "class": 0,
+        "bbox": [
+            1080,
+            749,
+            1155,
+            850
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_2581_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            353,
+            701,
+            423,
+            790
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_2581_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            878,
+            733,
+            955,
+            833
+        ]
+    },
+    {
+        "filename": "2_2#20250108_544_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            458,
+            103,
+            477,
+            123
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_5248_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            483,
+            496,
+            530,
+            560
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_5248_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            606,
+            503,
+            664,
+            564
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_5248_head_2.jpg",
+        "class": 0,
+        "bbox": [
+            538,
+            495,
+            564,
+            542
+        ]
+    },
+    {
+        "filename": "1_2#20250108_540_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            212,
+            384,
+            232,
+            410
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_445_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            615,
+            510,
+            671,
+            565
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_445_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            547,
+            564,
+            606,
+            627
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_445_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            544,
+            499,
+            593,
+            561
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_445_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            695,
+            504,
+            750,
+            564
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_432_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            511,
+            250,
+            526,
+            269
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_432_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            442,
+            240,
+            456,
+            258
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_432_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            486,
+            240,
+            501,
+            258
+        ]
+    },
+    {
+        "filename": "1_2#20250108_36_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            504,
+            260,
+            519,
+            278
+        ]
+    },
+    {
+        "filename": "20250113142128_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            466,
+            483,
+            524,
+            547
+        ]
+    },
+    {
+        "filename": "20250113142128_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            694,
+            517,
+            754,
+            595
+        ]
+    },
+    {
+        "filename": "20250113142128_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            858,
+            881,
+            962,
+            995
+        ]
+    },
+    {
+        "filename": "49837_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            171,
+            369,
+            184,
+            384
+        ]
+    },
+    {
+        "filename": "49837_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            16,
+            472,
+            32,
+            494
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_756_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            421,
+            271,
+            437,
+            291
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_756_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            480,
+            256,
+            497,
+            276
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_756_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            498,
+            267,
+            514,
+            288
+        ]
+    },
+    {
+        "filename": "1_2#20250108_576_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            232,
+            472,
+            261,
+            505
+        ]
+    },
+    {
+        "filename": "2_2#20250108_160_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            466,
+            268,
+            498,
+            310
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_3584_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            599,
+            511,
+            637,
+            565
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_3584_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            568,
+            543,
+            620,
+            611
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_3584_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            497,
+            478,
+            553,
+            557
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_1152_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            838,
+            371,
+            859,
+            400
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_1152_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            506,
+            487,
+            563,
+            564
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_2403_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            526,
+            491,
+            574,
+            549
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_2403_head_1.jpg",
+        "class": 0,
+        "bbox": [
+            764,
+            523,
+            814,
+            577
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_2403_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            512,
+            580,
+            569,
+            647
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_2403_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            753,
+            493,
+            798,
+            549
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_486_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            338,
+            266,
+            353,
+            287
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_486_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            398,
+            265,
+            413,
+            284
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_486_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            488,
+            237,
+            503,
+            257
+        ]
+    },
+    {
+        "filename": "55853_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            813,
+            489,
+            858,
+            544
+        ]
+    },
+    {
+        "filename": "2_2#20250108_112_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            318,
+            165,
+            339,
+            194
+        ]
+    },
+    {
+        "filename": "2_2#20250108_304_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            391,
+            269,
+            417,
+            301
+        ]
+    },
+    {
+        "filename": "49895_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            588,
+            268,
+            616,
+            305
+        ]
+    },
+    {
+        "filename": "49895_head_1.jpg",
+        "class": 0,
+        "bbox": [
+            564,
+            325,
+            596,
+            374
+        ]
+    },
+    {
+        "filename": "49895_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            396,
+            256,
+            427,
+            308
+        ]
+    },
+    {
+        "filename": "49895_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            317,
+            79,
+            341,
+            132
+        ]
+    },
+    {
+        "filename": "49895_helmet_4.jpg",
+        "class": 1,
+        "bbox": [
+            489,
+            352,
+            523,
+            409
+        ]
+    },
+    {
+        "filename": "49895_helmet_5.jpg",
+        "class": 1,
+        "bbox": [
+            552,
+            425,
+            587,
+            478
+        ]
+    },
+    {
+        "filename": "49895_helmet_6.jpg",
+        "class": 1,
+        "bbox": [
+            469,
+            533,
+            506,
+            575
+        ]
+    },
+    {
+        "filename": "49895_helmet_7.jpg",
+        "class": 1,
+        "bbox": [
+            92,
+            439,
+            142,
+            524
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_381_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            643,
+            486,
+            682,
+            530
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_381_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            668,
+            474,
+            723,
+            535
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_381_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            624,
+            562,
+            683,
+            628
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113175800-20250113180159_1_381_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            558,
+            505,
+            615,
+            565
+        ]
+    },
+    {
+        "filename": "3_2#20250108_1012_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            356,
+            68,
+            373,
+            94
+        ]
+    },
+    {
+        "filename": "49894_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            217,
+            279,
+            227,
+            295
+        ]
+    },
+    {
+        "filename": "49894_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            222,
+            360,
+            237,
+            380
+        ]
+    },
+    {
+        "filename": "49894_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            251,
+            270,
+            261,
+            284
+        ]
+    },
+    {
+        "filename": "49894_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            276,
+            199,
+            287,
+            213
+        ]
+    },
+    {
+        "filename": "49894_helmet_4.jpg",
+        "class": 1,
+        "bbox": [
+            212,
+            215,
+            221,
+            227
+        ]
+    },
+    {
+        "filename": "49894_helmet_5.jpg",
+        "class": 1,
+        "bbox": [
+            203,
+            222,
+            213,
+            237
+        ]
+    },
+    {
+        "filename": "49894_helmet_6.jpg",
+        "class": 1,
+        "bbox": [
+            520,
+            111,
+            531,
+            126
+        ]
+    },
+    {
+        "filename": "49894_helmet_7.jpg",
+        "class": 1,
+        "bbox": [
+            370,
+            136,
+            376,
+            144
+        ]
+    },
+    {
+        "filename": "20250113142149_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            569,
+            424,
+            628,
+            495
+        ]
+    },
+    {
+        "filename": "20250113142149_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            746,
+            432,
+            804,
+            508
+        ]
+    },
+    {
+        "filename": "55852_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            917,
+            922,
+            1024,
+            1032
+        ]
+    },
+    {
+        "filename": "55852_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            531,
+            521,
+            589,
+            588
+        ]
+    },
+    {
+        "filename": "55852_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            754,
+            559,
+            816,
+            638
+        ]
+    },
+    {
+        "filename": "55846_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            655,
+            637,
+            698,
+            687
+        ]
+    },
+    {
+        "filename": "2_2#20250108_688_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            489,
+            85,
+            504,
+            103
+        ]
+    },
+    {
+        "filename": "55850_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            45,
+            666,
+            86,
+            714
+        ]
+    },
+    {
+        "filename": "55850_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            227,
+            643,
+            270,
+            691
+        ]
+    },
+    {
+        "filename": "55850_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            143,
+            620,
+            182,
+            664
+        ]
+    },
+    {
+        "filename": "49896_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            41,
+            337,
+            91,
+            423
+        ]
+    },
+    {
+        "filename": "49896_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            317,
+            217,
+            355,
+            277
+        ]
+    },
+    {
+        "filename": "55845_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            677,
+            208,
+            725,
+            265
+        ]
+    },
+    {
+        "filename": "55845_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            692,
+            412,
+            739,
+            461
+        ]
+    },
+    {
+        "filename": "55851_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            269,
+            426,
+            294,
+            458
+        ]
+    },
+    {
+        "filename": "55851_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            112,
+            457,
+            137,
+            492
+        ]
+    },
+    {
+        "filename": "55855_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            631,
+            534,
+            670,
+            593
+        ]
+    },
+    {
+        "filename": "55855_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            576,
+            545,
+            624,
+            607
+        ]
+    },
+    {
+        "filename": "55855_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            491,
+            495,
+            540,
+            555
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_178_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            620,
+            510,
+            673,
+            568
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_178_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            543,
+            498,
+            587,
+            552
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_178_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            508,
+            529,
+            562,
+            593
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250114092300-20250114092559_1_178_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            703,
+            500,
+            758,
+            561
+        ]
+    },
+    {
+        "filename": "4_2#20250108_748_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            572,
+            232,
+            581,
+            241
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_384_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            504,
+            493,
+            568,
+            557
+        ]
+    },
+    {
+        "filename": "6000V-DistributionRoomWest-C-MSB-CMR-03_20250113135800-20250113140159_1_384_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            624,
+            541,
+            682,
+            602
+        ]
+    },
+    {
+        "filename": "49918_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            230,
+            51,
+            242,
+            74
+        ]
+    },
+    {
+        "filename": "49918_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            202,
+            55,
+            215,
+            78
+        ]
+    },
+    {
+        "filename": "3_2#20250108_682_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            705,
+            225,
+            736,
+            260
+        ]
+    },
+    {
+        "filename": "4_2#20250108_629_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            396,
+            287,
+            408,
+            300
+        ]
+    },
+    {
+        "filename": "55854_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            503,
+            488,
+            551,
+            551
+        ]
+    },
+    {
+        "filename": "55854_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            561,
+            537,
+            613,
+            600
+        ]
+    },
+    {
+        "filename": "55854_head_2.jpg",
+        "class": 0,
+        "bbox": [
+            623,
+            516,
+            661,
+            567
+        ]
+    },
+    {
+        "filename": "55856_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            423,
+            597,
+            484,
+            676
+        ]
+    },
+    {
+        "filename": "55856_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            623,
+            596,
+            691,
+            674
+        ]
+    },
+    {
+        "filename": "55856_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            881,
+            559,
+            937,
+            632
+        ]
+    },
+    {
+        "filename": "55856_head_3.jpg",
+        "class": 0,
+        "bbox": [
+            757,
+            602,
+            802,
+            660
+        ]
+    },
+    {
+        "filename": "5_C-20-CMR-09_1188_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            691,
+            259,
+            706,
+            274
+        ]
+    },
+    {
+        "filename": "55857_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            252,
+            609,
+            320,
+            693
+        ]
+    }
+]

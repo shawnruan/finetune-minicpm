@@ -1,0 +1,18 @@
+*.pyc
+
+# Ignore all .gguf model files
+*.gguf
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Keep the model directories but ignore their contents
+models/*/
+!models/*/README.md
+
+# 忽略result目录中的文件，但保留目录结构
+/result/*
+!/result/.gitkeep
+

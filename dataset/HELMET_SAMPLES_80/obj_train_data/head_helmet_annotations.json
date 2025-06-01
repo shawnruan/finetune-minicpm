@@ -1,0 +1,2462 @@
+[
+    {
+        "filename": "000783_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            211,
+            169,
+            434,
+            475
+        ]
+    },
+    {
+        "filename": "000755_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            308,
+            39,
+            378,
+            148
+        ]
+    },
+    {
+        "filename": "000755_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            118,
+            27,
+            202,
+            136
+        ]
+    },
+    {
+        "filename": "000755_head_2.jpg",
+        "class": 0,
+        "bbox": [
+            222,
+            129,
+            316,
+            275
+        ]
+    },
+    {
+        "filename": "000755_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            425,
+            65,
+            485,
+            159
+        ]
+    },
+    {
+        "filename": "000351_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            240,
+            135,
+            318,
+            220
+        ]
+    },
+    {
+        "filename": "000351_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            209,
+            30,
+            272,
+            121
+        ]
+    },
+    {
+        "filename": "000351_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            72,
+            21,
+            148,
+            106
+        ]
+    },
+    {
+        "filename": "000756_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            150,
+            140,
+            276,
+            318
+        ]
+    },
+    {
+        "filename": "000352_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            323,
+            74,
+            372,
+            139
+        ]
+    },
+    {
+        "filename": "000352_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            88,
+            243,
+            109,
+            270
+        ]
+    },
+    {
+        "filename": "000352_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            9,
+            260,
+            35,
+            290
+        ]
+    },
+    {
+        "filename": "000352_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            357,
+            34,
+            421,
+            121
+        ]
+    },
+    {
+        "filename": "000352_helmet_4.jpg",
+        "class": 1,
+        "bbox": [
+            191,
+            109,
+            241,
+            172
+        ]
+    },
+    {
+        "filename": "000408_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            187,
+            151,
+            265,
+            253
+        ]
+    },
+    {
+        "filename": "000408_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            372,
+            162,
+            455,
+            257
+        ]
+    },
+    {
+        "filename": "001070_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            349,
+            98,
+            379,
+            132
+        ]
+    },
+    {
+        "filename": "001070_head_1.jpg",
+        "class": 0,
+        "bbox": [
+            138,
+            98,
+            167,
+            132
+        ]
+    },
+    {
+        "filename": "001070_head_2.jpg",
+        "class": 0,
+        "bbox": [
+            281,
+            93,
+            312,
+            128
+        ]
+    },
+    {
+        "filename": "001070_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            214,
+            99,
+            243,
+            139
+        ]
+    },
+    {
+        "filename": "000150_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            242,
+            89,
+            279,
+            138
+        ]
+    },
+    {
+        "filename": "000342_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            418,
+            49,
+            513,
+            148
+        ]
+    },
+    {
+        "filename": "000342_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            158,
+            43,
+            253,
+            147
+        ]
+    },
+    {
+        "filename": "000356_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            208,
+            79,
+            236,
+            119
+        ]
+    },
+    {
+        "filename": "000356_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            171,
+            80,
+            199,
+            120
+        ]
+    },
+    {
+        "filename": "000009_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            59,
+            118,
+            144,
+            210
+        ]
+    },
+    {
+        "filename": "000009_head_1.jpg",
+        "class": 0,
+        "bbox": [
+            543,
+            1,
+            650,
+            105
+        ]
+    },
+    {
+        "filename": "000009_head_2.jpg",
+        "class": 0,
+        "bbox": [
+            367,
+            35,
+            466,
+            152
+        ]
+    },
+    {
+        "filename": "000009_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            250,
+            71,
+            344,
+            180
+        ]
+    },
+    {
+        "filename": "000021_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            375,
+            40,
+            418,
+            97
+        ]
+    },
+    {
+        "filename": "000021_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            140,
+            81,
+            154,
+            98
+        ]
+    },
+    {
+        "filename": "000021_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            322,
+            28,
+            381,
+            106
+        ]
+    },
+    {
+        "filename": "000021_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            246,
+            35,
+            293,
+            101
+        ]
+    },
+    {
+        "filename": "000021_helmet_4.jpg",
+        "class": 1,
+        "bbox": [
+            172,
+            40,
+            240,
+            110
+        ]
+    },
+    {
+        "filename": "000021_helmet_5.jpg",
+        "class": 1,
+        "bbox": [
+            0,
+            0,
+            93,
+            128
+        ]
+    },
+    {
+        "filename": "000021_head_6.jpg",
+        "class": 0,
+        "bbox": [
+            73,
+            61,
+            114,
+            118
+        ]
+    },
+    {
+        "filename": "000343_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            2,
+            178,
+            106,
+            305
+        ]
+    },
+    {
+        "filename": "000343_head_1.jpg",
+        "class": 0,
+        "bbox": [
+            278,
+            3,
+            352,
+            95
+        ]
+    },
+    {
+        "filename": "000343_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            454,
+            122,
+            650,
+            432
+        ]
+    },
+    {
+        "filename": "000633_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            439,
+            229,
+            534,
+            342
+        ]
+    },
+    {
+        "filename": "000816_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            171,
+            30,
+            223,
+            96
+        ]
+    },
+    {
+        "filename": "part2_001953_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            622,
+            98,
+            825,
+            388
+        ]
+    },
+    {
+        "filename": "part2_001953_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            1380,
+            158,
+            1771,
+            593
+        ]
+    },
+    {
+        "filename": "part2_001953_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            1102,
+            73,
+            1358,
+            463
+        ]
+    },
+    {
+        "filename": "part2_001953_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            141,
+            117,
+            348,
+            405
+        ]
+    },
+    {
+        "filename": "part2_001953_helmet_4.jpg",
+        "class": 1,
+        "bbox": [
+            324,
+            141,
+            647,
+            554
+        ]
+    },
+    {
+        "filename": "000976_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            758,
+            259,
+            770,
+            271
+        ]
+    },
+    {
+        "filename": "000976_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            534,
+            216,
+            594,
+            287
+        ]
+    },
+    {
+        "filename": "000976_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            675,
+            253,
+            689,
+            265
+        ]
+    },
+    {
+        "filename": "000976_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            629,
+            259,
+            643,
+            276
+        ]
+    },
+    {
+        "filename": "000976_helmet_4.jpg",
+        "class": 1,
+        "bbox": [
+            725,
+            242,
+            742,
+            261
+        ]
+    },
+    {
+        "filename": "000976_helmet_5.jpg",
+        "class": 1,
+        "bbox": [
+            200,
+            195,
+            266,
+            265
+        ]
+    },
+    {
+        "filename": "000976_helmet_6.jpg",
+        "class": 1,
+        "bbox": [
+            313,
+            211,
+            371,
+            282
+        ]
+    },
+    {
+        "filename": "000976_helmet_7.jpg",
+        "class": 1,
+        "bbox": [
+            407,
+            206,
+            466,
+            276
+        ]
+    },
+    {
+        "filename": "000750_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            161,
+            61,
+            239,
+            172
+        ]
+    },
+    {
+        "filename": "000750_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            292,
+            37,
+            393,
+            160
+        ]
+    },
+    {
+        "filename": "part2_001417_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            112,
+            4,
+            157,
+            73
+        ]
+    },
+    {
+        "filename": "part2_001417_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            270,
+            53,
+            293,
+            85
+        ]
+    },
+    {
+        "filename": "part2_001417_head_2.jpg",
+        "class": 0,
+        "bbox": [
+            214,
+            55,
+            232,
+            77
+        ]
+    },
+    {
+        "filename": "part2_001417_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            15,
+            39,
+            37,
+            67
+        ]
+    },
+    {
+        "filename": "001089_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            335,
+            113,
+            348,
+            127
+        ]
+    },
+    {
+        "filename": "001089_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            279,
+            53,
+            309,
+            90
+        ]
+    },
+    {
+        "filename": "001089_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            228,
+            64,
+            252,
+            95
+        ]
+    },
+    {
+        "filename": "001089_head_3.jpg",
+        "class": 0,
+        "bbox": [
+            143,
+            48,
+            168,
+            78
+        ]
+    },
+    {
+        "filename": "part2_001952_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            151,
+            51,
+            196,
+            109
+        ]
+    },
+    {
+        "filename": "part2_001952_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            83,
+            89,
+            130,
+            147
+        ]
+    },
+    {
+        "filename": "000181_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            172,
+            67,
+            188,
+            86
+        ]
+    },
+    {
+        "filename": "000482_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            53,
+            39,
+            86,
+            81
+        ]
+    },
+    {
+        "filename": "000482_head_1.jpg",
+        "class": 0,
+        "bbox": [
+            257,
+            23,
+            293,
+            74
+        ]
+    },
+    {
+        "filename": "000482_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            90,
+            50,
+            143,
+            112
+        ]
+    },
+    {
+        "filename": "000482_head_3.jpg",
+        "class": 0,
+        "bbox": [
+            337,
+            53,
+            388,
+            116
+        ]
+    },
+    {
+        "filename": "000482_head_4.jpg",
+        "class": 0,
+        "bbox": [
+            530,
+            85,
+            580,
+            142
+        ]
+    },
+    {
+        "filename": "000482_head_5.jpg",
+        "class": 0,
+        "bbox": [
+            171,
+            37,
+            204,
+            79
+        ]
+    },
+    {
+        "filename": "001367_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            55,
+            93,
+            108,
+            156
+        ]
+    },
+    {
+        "filename": "001367_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            0,
+            113,
+            25,
+            157
+        ]
+    },
+    {
+        "filename": "001367_head_2.jpg",
+        "class": 0,
+        "bbox": [
+            266,
+            119,
+            301,
+            163
+        ]
+    },
+    {
+        "filename": "001367_head_3.jpg",
+        "class": 0,
+        "bbox": [
+            387,
+            130,
+            420,
+            172
+        ]
+    },
+    {
+        "filename": "001367_head_4.jpg",
+        "class": 0,
+        "bbox": [
+            153,
+            127,
+            181,
+            162
+        ]
+    },
+    {
+        "filename": "001367_head_5.jpg",
+        "class": 0,
+        "bbox": [
+            321,
+            124,
+            331,
+            137
+        ]
+    },
+    {
+        "filename": "001367_head_6.jpg",
+        "class": 0,
+        "bbox": [
+            339,
+            131,
+            349,
+            142
+        ]
+    },
+    {
+        "filename": "000086_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            28,
+            109,
+            110,
+            198
+        ]
+    },
+    {
+        "filename": "000086_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            97,
+            73,
+            182,
+            169
+        ]
+    },
+    {
+        "filename": "000086_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            198,
+            35,
+            291,
+            143
+        ]
+    },
+    {
+        "filename": "part2_001667_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            1503,
+            219,
+            1777,
+            517
+        ]
+    },
+    {
+        "filename": "part2_001667_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            1294,
+            385,
+            1377,
+            493
+        ]
+    },
+    {
+        "filename": "part2_001667_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            604,
+            291,
+            758,
+            491
+        ]
+    },
+    {
+        "filename": "part2_001667_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            355,
+            342,
+            627,
+            633
+        ]
+    },
+    {
+        "filename": "part2_001667_helmet_4.jpg",
+        "class": 1,
+        "bbox": [
+            953,
+            411,
+            994,
+            473
+        ]
+    },
+    {
+        "filename": "part2_001667_helmet_5.jpg",
+        "class": 1,
+        "bbox": [
+            1032,
+            328,
+            1158,
+            499
+        ]
+    },
+    {
+        "filename": "part2_001667_helmet_6.jpg",
+        "class": 1,
+        "bbox": [
+            789,
+            389,
+            836,
+            452
+        ]
+    },
+    {
+        "filename": "000522_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            470,
+            215,
+            565,
+            320
+        ]
+    },
+    {
+        "filename": "000522_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            350,
+            204,
+            441,
+            318
+        ]
+    },
+    {
+        "filename": "000046_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            678,
+            249,
+            772,
+            361
+        ]
+    },
+    {
+        "filename": "000046_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            328,
+            167,
+            400,
+            252
+        ]
+    },
+    {
+        "filename": "000046_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            399,
+            280,
+            473,
+            361
+        ]
+    },
+    {
+        "filename": "000053_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            197,
+            70,
+            267,
+            160
+        ]
+    },
+    {
+        "filename": "000053_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            308,
+            109,
+            324,
+            127
+        ]
+    },
+    {
+        "filename": "000053_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            46,
+            120,
+            67,
+            141
+        ]
+    },
+    {
+        "filename": "part2_000181_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            252,
+            107,
+            353,
+            232
+        ]
+    },
+    {
+        "filename": "part2_000181_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            466,
+            126,
+            590,
+            283
+        ]
+    },
+    {
+        "filename": "000487_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            432,
+            144,
+            462,
+            189
+        ]
+    },
+    {
+        "filename": "000487_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            0,
+            105,
+            32,
+            187
+        ]
+    },
+    {
+        "filename": "000487_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            47,
+            50,
+            135,
+            171
+        ]
+    },
+    {
+        "filename": "000487_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            118,
+            136,
+            168,
+            194
+        ]
+    },
+    {
+        "filename": "000487_helmet_4.jpg",
+        "class": 1,
+        "bbox": [
+            196,
+            101,
+            262,
+            200
+        ]
+    },
+    {
+        "filename": "000487_helmet_5.jpg",
+        "class": 1,
+        "bbox": [
+            392,
+            105,
+            440,
+            170
+        ]
+    },
+    {
+        "filename": "000487_helmet_6.jpg",
+        "class": 1,
+        "bbox": [
+            491,
+            104,
+            533,
+            178
+        ]
+    },
+    {
+        "filename": "000487_head_7.jpg",
+        "class": 0,
+        "bbox": [
+            313,
+            82,
+            391,
+            182
+        ]
+    },
+    {
+        "filename": "part2_000541_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            126,
+            87,
+            162,
+            130
+        ]
+    },
+    {
+        "filename": "part2_000541_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            201,
+            13,
+            286,
+            134
+        ]
+    },
+    {
+        "filename": "000492_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            520,
+            116,
+            600,
+            201
+        ]
+    },
+    {
+        "filename": "000492_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            761,
+            156,
+            820,
+            218
+        ]
+    },
+    {
+        "filename": "part2_000439_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            116,
+            89,
+            203,
+            206
+        ]
+    },
+    {
+        "filename": "part2_000439_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            380,
+            48,
+            499,
+            187
+        ]
+    },
+    {
+        "filename": "part2_000439_head_2.jpg",
+        "class": 0,
+        "bbox": [
+            550,
+            53,
+            626,
+            159
+        ]
+    },
+    {
+        "filename": "part2_000439_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            256,
+            28,
+            371,
+            178
+        ]
+    },
+    {
+        "filename": "000110_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            126,
+            39,
+            186,
+            123
+        ]
+    },
+    {
+        "filename": "001385_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            48,
+            18,
+            98,
+            86
+        ]
+    },
+    {
+        "filename": "001385_head_1.jpg",
+        "class": 0,
+        "bbox": [
+            188,
+            17,
+            238,
+            86
+        ]
+    },
+    {
+        "filename": "000339_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            333,
+            125,
+            490,
+            351
+        ]
+    },
+    {
+        "filename": "000339_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            535,
+            2,
+            800,
+            310
+        ]
+    },
+    {
+        "filename": "000339_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            9,
+            172,
+            275,
+            472
+        ]
+    },
+    {
+        "filename": "001351_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            216,
+            97,
+            317,
+            211
+        ]
+    },
+    {
+        "filename": "001351_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            345,
+            160,
+            408,
+            230
+        ]
+    },
+    {
+        "filename": "001351_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            474,
+            130,
+            536,
+            200
+        ]
+    },
+    {
+        "filename": "000072_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            359,
+            172,
+            382,
+            194
+        ]
+    },
+    {
+        "filename": "000072_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            495,
+            186,
+            516,
+            210
+        ]
+    },
+    {
+        "filename": "000072_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            192,
+            162,
+            213,
+            180
+        ]
+    },
+    {
+        "filename": "000072_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            225,
+            192,
+            242,
+            208
+        ]
+    },
+    {
+        "filename": "000072_helmet_4.jpg",
+        "class": 1,
+        "bbox": [
+            264,
+            256,
+            299,
+            297
+        ]
+    },
+    {
+        "filename": "000264_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            120,
+            57,
+            163,
+            115
+        ]
+    },
+    {
+        "filename": "001142_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            52,
+            23,
+            81,
+            60
+        ]
+    },
+    {
+        "filename": "001142_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            201,
+            18,
+            240,
+            73
+        ]
+    },
+    {
+        "filename": "part2_001654_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            337,
+            54,
+            428,
+            184
+        ]
+    },
+    {
+        "filename": "part2_001654_head_1.jpg",
+        "class": 0,
+        "bbox": [
+            504,
+            72,
+            603,
+            191
+        ]
+    },
+    {
+        "filename": "part2_001654_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            106,
+            80,
+            239,
+            224
+        ]
+    },
+    {
+        "filename": "000263_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            247,
+            19,
+            277,
+            64
+        ]
+    },
+    {
+        "filename": "000263_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            116,
+            20,
+            162,
+            76
+        ]
+    },
+    {
+        "filename": "000263_head_2.jpg",
+        "class": 0,
+        "bbox": [
+            267,
+            24,
+            311,
+            79
+        ]
+    },
+    {
+        "filename": "000505_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            136,
+            121,
+            223,
+            229
+        ]
+    },
+    {
+        "filename": "000505_head_1.jpg",
+        "class": 0,
+        "bbox": [
+            320,
+            100,
+            430,
+            202
+        ]
+    },
+    {
+        "filename": "000505_head_2.jpg",
+        "class": 0,
+        "bbox": [
+            74,
+            130,
+            139,
+            209
+        ]
+    },
+    {
+        "filename": "part2_001657_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            3902,
+            233,
+            4333,
+            814
+        ]
+    },
+    {
+        "filename": "part2_001657_head_1.jpg",
+        "class": 0,
+        "bbox": [
+            3135,
+            1079,
+            3491,
+            1565
+        ]
+    },
+    {
+        "filename": "part2_001657_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            2740,
+            37,
+            3155,
+            609
+        ]
+    },
+    {
+        "filename": "part2_001657_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            3388,
+            0,
+            3804,
+            478
+        ]
+    },
+    {
+        "filename": "part2_001657_helmet_4.jpg",
+        "class": 1,
+        "bbox": [
+            4555,
+            47,
+            5011,
+            619
+        ]
+    },
+    {
+        "filename": "000262_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            397,
+            95,
+            454,
+            159
+        ]
+    },
+    {
+        "filename": "000262_head_1.jpg",
+        "class": 0,
+        "bbox": [
+            9,
+            226,
+            148,
+            381
+        ]
+    },
+    {
+        "filename": "000262_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            300,
+            128,
+            357,
+            192
+        ]
+    },
+    {
+        "filename": "000262_head_3.jpg",
+        "class": 0,
+        "bbox": [
+            916,
+            159,
+            960,
+            225
+        ]
+    },
+    {
+        "filename": "000262_helmet_4.jpg",
+        "class": 1,
+        "bbox": [
+            808,
+            128,
+            866,
+            192
+        ]
+    },
+    {
+        "filename": "000262_helmet_5.jpg",
+        "class": 1,
+        "bbox": [
+            541,
+            128,
+            610,
+            201
+        ]
+    },
+    {
+        "filename": "000262_helmet_6.jpg",
+        "class": 1,
+        "bbox": [
+            450,
+            132,
+            508,
+            196
+        ]
+    },
+    {
+        "filename": "000262_helmet_7.jpg",
+        "class": 1,
+        "bbox": [
+            620,
+            110,
+            677,
+            173
+        ]
+    },
+    {
+        "filename": "part2_000165_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            220,
+            44,
+            284,
+            118
+        ]
+    },
+    {
+        "filename": "part2_000165_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            96,
+            62,
+            165,
+            131
+        ]
+    },
+    {
+        "filename": "001523_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            301,
+            116,
+            419,
+            245
+        ]
+    },
+    {
+        "filename": "001523_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            223,
+            379,
+            358,
+            534
+        ]
+    },
+    {
+        "filename": "000601_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            231,
+            6,
+            281,
+            74
+        ]
+    },
+    {
+        "filename": "part2_000116_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            206,
+            242,
+            430,
+            477
+        ]
+    },
+    {
+        "filename": "part2_000116_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            867,
+            204,
+            1119,
+            455
+        ]
+    },
+    {
+        "filename": "000417_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            367,
+            150,
+            401,
+            188
+        ]
+    },
+    {
+        "filename": "000417_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            55,
+            52,
+            157,
+            154
+        ]
+    },
+    {
+        "filename": "000417_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            244,
+            116,
+            301,
+            185
+        ]
+    },
+    {
+        "filename": "000417_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            306,
+            131,
+            346,
+            181
+        ]
+    },
+    {
+        "filename": "000417_helmet_4.jpg",
+        "class": 1,
+        "bbox": [
+            365,
+            45,
+            468,
+            169
+        ]
+    },
+    {
+        "filename": "000984_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            343,
+            160,
+            374,
+            199
+        ]
+    },
+    {
+        "filename": "000984_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            203,
+            165,
+            236,
+            209
+        ]
+    },
+    {
+        "filename": "000984_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            76,
+            186,
+            114,
+            228
+        ]
+    },
+    {
+        "filename": "000238_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            185,
+            44,
+            224,
+            88
+        ]
+    },
+    {
+        "filename": "000238_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            128,
+            46,
+            162,
+            91
+        ]
+    },
+    {
+        "filename": "000238_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            254,
+            9,
+            327,
+            83
+        ]
+    },
+    {
+        "filename": "000238_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            341,
+            73,
+            351,
+            91
+        ]
+    },
+    {
+        "filename": "000238_helmet_4.jpg",
+        "class": 1,
+        "bbox": [
+            22,
+            30,
+            83,
+            103
+        ]
+    },
+    {
+        "filename": "001091_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            173,
+            253,
+            320,
+            436
+        ]
+    },
+    {
+        "filename": "001091_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            797,
+            78,
+            919,
+            237
+        ]
+    },
+    {
+        "filename": "001091_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            709,
+            88,
+            794,
+            206
+        ]
+    },
+    {
+        "filename": "001091_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            634,
+            117,
+            713,
+            218
+        ]
+    },
+    {
+        "filename": "part2_001553_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            189,
+            58,
+            336,
+            234
+        ]
+    },
+    {
+        "filename": "part2_000117_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            174,
+            27,
+            355,
+            234
+        ]
+    },
+    {
+        "filename": "part2_000117_head_1.jpg",
+        "class": 0,
+        "bbox": [
+            698,
+            0,
+            968,
+            342
+        ]
+    },
+    {
+        "filename": "part2_000117_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            380,
+            0,
+            608,
+            228
+        ]
+    },
+    {
+        "filename": "000400_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            147,
+            89,
+            192,
+            139
+        ]
+    },
+    {
+        "filename": "000400_head_1.jpg",
+        "class": 0,
+        "bbox": [
+            287,
+            126,
+            327,
+            170
+        ]
+    },
+    {
+        "filename": "000400_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            0,
+            131,
+            15,
+            162
+        ]
+    },
+    {
+        "filename": "000400_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            23,
+            100,
+            66,
+            151
+        ]
+    },
+    {
+        "filename": "000399_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            161,
+            180,
+            192,
+            221
+        ]
+    },
+    {
+        "filename": "000212_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            408,
+            136,
+            570,
+            357
+        ]
+    },
+    {
+        "filename": "000992_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            168,
+            77,
+            265,
+            190
+        ]
+    },
+    {
+        "filename": "000992_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            335,
+            103,
+            433,
+            219
+        ]
+    },
+    {
+        "filename": "000986_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            125,
+            104,
+            149,
+            135
+        ]
+    },
+    {
+        "filename": "000986_head_1.jpg",
+        "class": 0,
+        "bbox": [
+            97,
+            120,
+            127,
+            154
+        ]
+    },
+    {
+        "filename": "000986_head_2.jpg",
+        "class": 0,
+        "bbox": [
+            177,
+            111,
+            203,
+            142
+        ]
+    },
+    {
+        "filename": "000986_head_3.jpg",
+        "class": 0,
+        "bbox": [
+            250,
+            110,
+            280,
+            144
+        ]
+    },
+    {
+        "filename": "000986_head_4.jpg",
+        "class": 0,
+        "bbox": [
+            7,
+            53,
+            50,
+            94
+        ]
+    },
+    {
+        "filename": "000986_helmet_5.jpg",
+        "class": 1,
+        "bbox": [
+            9,
+            86,
+            92,
+            173
+        ]
+    },
+    {
+        "filename": "000986_helmet_6.jpg",
+        "class": 1,
+        "bbox": [
+            193,
+            80,
+            236,
+            128
+        ]
+    },
+    {
+        "filename": "000986_helmet_7.jpg",
+        "class": 1,
+        "bbox": [
+            381,
+            105,
+            399,
+            147
+        ]
+    },
+    {
+        "filename": "000986_helmet_8.jpg",
+        "class": 1,
+        "bbox": [
+            294,
+            87,
+            341,
+            133
+        ]
+    },
+    {
+        "filename": "001483_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            257,
+            36,
+            379,
+            164
+        ]
+    },
+    {
+        "filename": "part2_000699_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            398,
+            190,
+            533,
+            372
+        ]
+    },
+    {
+        "filename": "part2_000699_head_1.jpg",
+        "class": 0,
+        "bbox": [
+            846,
+            125,
+            984,
+            299
+        ]
+    },
+    {
+        "filename": "part2_000699_head_2.jpg",
+        "class": 0,
+        "bbox": [
+            592,
+            159,
+            730,
+            349
+        ]
+    },
+    {
+        "filename": "part2_000699_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            130,
+            107,
+            286,
+            337
+        ]
+    },
+    {
+        "filename": "000401_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            305,
+            126,
+            318,
+            146
+        ]
+    },
+    {
+        "filename": "000401_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            68,
+            87,
+            118,
+            141
+        ]
+    },
+    {
+        "filename": "000401_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            404,
+            128,
+            423,
+            146
+        ]
+    },
+    {
+        "filename": "000401_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            149,
+            52,
+            208,
+            114
+        ]
+    },
+    {
+        "filename": "part2_000672_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            240,
+            342,
+            330,
+            440
+        ]
+    },
+    {
+        "filename": "part2_000672_head_1.jpg",
+        "class": 0,
+        "bbox": [
+            320,
+            84,
+            599,
+            461
+        ]
+    },
+    {
+        "filename": "001521_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            633,
+            112,
+            743,
+            242
+        ]
+    },
+    {
+        "filename": "000159_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            62,
+            12,
+            179,
+            156
+        ]
+    },
+    {
+        "filename": "000159_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            281,
+            21,
+            400,
+            160
+        ]
+    },
+    {
+        "filename": "000405_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            268,
+            68,
+            396,
+            233
+        ]
+    },
+    {
+        "filename": "000405_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            494,
+            50,
+            646,
+            217
+        ]
+    },
+    {
+        "filename": "000405_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            115,
+            2,
+            283,
+            190
+        ]
+    },
+    {
+        "filename": "001069_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            161,
+            94,
+            187,
+            123
+        ]
+    },
+    {
+        "filename": "001069_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            69,
+            99,
+            99,
+            131
+        ]
+    },
+    {
+        "filename": "001069_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            245,
+            21,
+            271,
+            48
+        ]
+    },
+    {
+        "filename": "000798_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            161,
+            252,
+            204,
+            309
+        ]
+    },
+    {
+        "filename": "part2_000071_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            902,
+            27,
+            1197,
+            319
+        ]
+    },
+    {
+        "filename": "part2_000071_head_1.jpg",
+        "class": 0,
+        "bbox": [
+            459,
+            113,
+            633,
+            364
+        ]
+    },
+    {
+        "filename": "001097_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            223,
+            13,
+            312,
+            132
+        ]
+    },
+    {
+        "filename": "000438_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            116,
+            8,
+            144,
+            50
+        ]
+    },
+    {
+        "filename": "000821_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            258,
+            159,
+            280,
+            179
+        ]
+    },
+    {
+        "filename": "000821_head_1.jpg",
+        "class": 0,
+        "bbox": [
+            241,
+            236,
+            263,
+            256
+        ]
+    },
+    {
+        "filename": "000821_head_2.jpg",
+        "class": 0,
+        "bbox": [
+            241,
+            48,
+            266,
+            74
+        ]
+    },
+    {
+        "filename": "000821_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            293,
+            134,
+            316,
+            154
+        ]
+    },
+    {
+        "filename": "000821_helmet_4.jpg",
+        "class": 1,
+        "bbox": [
+            183,
+            171,
+            205,
+            197
+        ]
+    },
+    {
+        "filename": "000821_helmet_5.jpg",
+        "class": 1,
+        "bbox": [
+            195,
+            60,
+            219,
+            88
+        ]
+    },
+    {
+        "filename": "000148_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            185,
+            79,
+            269,
+            167
+        ]
+    },
+    {
+        "filename": "000148_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            317,
+            41,
+            371,
+            112
+        ]
+    },
+    {
+        "filename": "001518_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            532,
+            98,
+            624,
+            194
+        ]
+    },
+    {
+        "filename": "001518_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            235,
+            241,
+            285,
+            309
+        ]
+    },
+    {
+        "filename": "000823_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            215,
+            45,
+            368,
+            268
+        ]
+    },
+    {
+        "filename": "000348_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            66,
+            58,
+            109,
+            112
+        ]
+    },
+    {
+        "filename": "000348_head_1.jpg",
+        "class": 0,
+        "bbox": [
+            111,
+            39,
+            178,
+            135
+        ]
+    },
+    {
+        "filename": "000348_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            352,
+            41,
+            426,
+            136
+        ]
+    },
+    {
+        "filename": "000348_head_3.jpg",
+        "class": 0,
+        "bbox": [
+            517,
+            79,
+            561,
+            130
+        ]
+    },
+    {
+        "filename": "000957_head_0.jpg",
+        "class": 0,
+        "bbox": [
+            264,
+            37,
+            415,
+            198
+        ]
+    },
+    {
+        "filename": "000957_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            75,
+            65,
+            254,
+            227
+        ]
+    },
+    {
+        "filename": "part2_000489_helmet_0.jpg",
+        "class": 1,
+        "bbox": [
+            162,
+            11,
+            340,
+            238
+        ]
+    },
+    {
+        "filename": "part2_000489_helmet_1.jpg",
+        "class": 1,
+        "bbox": [
+            330,
+            73,
+            492,
+            307
+        ]
+    },
+    {
+        "filename": "part2_000489_helmet_2.jpg",
+        "class": 1,
+        "bbox": [
+            897,
+            351,
+            973,
+            472
+        ]
+    },
+    {
+        "filename": "part2_000489_helmet_3.jpg",
+        "class": 1,
+        "bbox": [
+            517,
+            117,
+            688,
+            323
+        ]
+    }
+]

@@ -12,7 +12,7 @@
                 "role": "assistant"
             },
             {
-                "content": "<image>What are they doing?",
+                "content": "What are they doing?",
                 "role": "user"
             },
             {
@@ -78,7 +78,7 @@
                 "role": "assistant"
             },
             {
-                "content": "<image>他们在做什么？",
+                "content": "他们在做什么？",
                 "role": "user"
             },
             {
