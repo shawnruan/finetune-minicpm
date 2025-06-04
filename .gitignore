@@ -12,6 +12,11 @@ __pycache__/
 models/*/
 !models/*/README.md
 
+dataset/*/
+!dataset/*/README.md
+
+finetune/output/*/
+
 # 忽略result目录中的文件，但保留目录结构
 /result/*
 !/result/.gitkeep
